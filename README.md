@@ -1,9 +1,9 @@
 
-#Projeto BD
+# Projeto BD
 
-##Alterações após apresentação:
+## Alterações após apresentação:
 
-Após a apresentação do dia 1 de junho foram feitas as seguintes modificações:
+#### Após a apresentação do dia 1 de junho foram feitas as seguintes modificações:
 - O atributo “carta_conducao” da entidade “Pessoas” foi removido e adicionado
 a entidade “Motoristas”.
 - Um Stored Procedure que insere uma “Pessoa” seguido de um “Motorista” ou
