@@ -10,4 +10,4 @@ a entidade “Motoristas”.
 “Cliente” dependendo dos atributos passados.
 - View para listar os pontos de recarga.
 - UDF para calcular o faturamento mensal de um “Motorista”.
-- Eliminação do cascade.
+- Eliminação do cascade delete.
